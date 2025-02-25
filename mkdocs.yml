@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: GigaWiki
+site_url: https://wiki.gigacafe.org
+site_author: 轼水桥头
+site_description: 国外黑客松参赛指南
+site_favicon: /assets/images/favicon.ico
+site_include_search: true
+site_include_search_page: true
