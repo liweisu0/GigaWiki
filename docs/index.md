@@ -1,17 +1,62 @@
-# Welcome to MkDocs
+# GigaWiki - 国外黑客松参赛指南 🚀
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+> 我希望国内每个高校的学生都有一次参加国外黑客松的经历。
 
-## Commands
+## 为什么需要这份指南？
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+作为一位已经毕业的软工学生，我深知很多计算机专业的同学在大学期间常常感到迷茫：
 
-## Project layout
+- "感觉学校还是挺应试的，随便混混就过去了。"
+- "不知道出来自己能干啥，选工作好难。"
+- "感觉自己啥都学了，但是啥都没学会。"
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+这些困惑我都经历过。直到工作后的一次偶然机会，我接触到了黑客松，认识了一群志同道合的朋友，一起参加国外比赛。在这个过程中，我们收获了友谊、经验和成长。
+
+## 开始你的黑客松之旅
+
+### 🚀 [快速入门](./quick-start.md)
+
+如果你是第一次听说黑客松，或者想要尽快上手参加比赛，这里为你准备了：
+
+- 黑客松基本概念
+- 参赛必备清单
+- 新手入门指南
+- 比赛技巧分享
+
+### ❓ [常见疑问](./faq.md)
+
+这里收集了很多新手经常遇到的问题：
+
+- 没有队友怎么办？
+- 英语不好可以参加吗？
+- 技术水平不够行吗？
+- 时差问题如何处理？
+
+### 👥 [我们都是谁？](./about-us.md)
+
+想了解这个项目背后的故事和团队吗？
+
+- 我们的使命
+- 团队成员介绍
+- 如何加入我们
+- 联系方式
+
+## 为什么要参加国外黑客松？
+
+- 💡 获得实战项目经验
+- 🌏 结识来自世界各地的开发者
+- 📈 提升英语交流能力
+- 🏆 丰富简历经历
+- 🎁 获得奖品和奖金机会
+- 💼 接触全球顶尖科技公司
+
+## 参与贡献
+
+我们欢迎所有形式的贡献，无论是：
+
+- 📝 完善文档内容
+- 🐛 报告问题
+- 💡 提供建议
+- 👥 分享经验
+
+访问我们的 [GitHub 仓库](https://github.com/yourusername/GigaWiki) 了解更多。
