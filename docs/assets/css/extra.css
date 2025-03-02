@@ -1,0 +1,24 @@
+/* Additional custom styles */
+:root {
+  --md-text-font: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --md-code-font: "Roboto Mono", "Courier New", Courier, monospace;
+}
+
+/* Simplify the overall appearance */
+.md-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Make headings cleaner */
+.md-content h1, .md-content h2 {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.3em;
+}
+
+/* Improve readability of blockquotes */
+blockquote {
+  border-left: 4px solid var(--md-primary-fg-color);
+  padding-left: 1em;
+  color: var(--md-default-fg-color--light);
+} 
